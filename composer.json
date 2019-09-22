@@ -1,12 +1,12 @@
 {
-    "name": "yugo/smsgateway",
+    "name": "guilhermedev98/larasms",
     "description": "SMS gateway for Laravel using various vendors (SMSGateway.me, Zenziva, etc)",
     "keywords": [
         "smsgateway",
         "laravel",
         "sms"
     ],
-    "homepage": "https://github.com/arvernester/smsgateway",
+    "homepage": "https://github.com/GuilhermeDev98/larasms",
     "license": "MIT",
     "type": "library",
     "authors": [
